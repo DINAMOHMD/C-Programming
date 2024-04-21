@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1696677738 source:d:\courses\vice versa\main.c
+	<stdio.h>
+	<stdlib.h>
+
