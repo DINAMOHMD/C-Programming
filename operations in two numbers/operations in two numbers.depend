@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1696678704 source:d:\courses\operations in two numbers\main.c
+	<stdio.h>
+	<stdlib.h>
+

@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1696946481 source:d:\courses\magic box\main.c
+	<stdio.h>
+	<stdlib.h>
+	<Windows.h>
+

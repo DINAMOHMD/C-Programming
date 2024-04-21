@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1697358278 source:d:\courses\calc func(struct)\main.c
+	<stdio.h>
+	<stdlib.h>
+
